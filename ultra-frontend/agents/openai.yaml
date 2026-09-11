@@ -1,0 +1,5 @@
+interface:
+  display_name: "Ultra Frontend"
+  short_description: "Dirección artística y frontend web de alto nivel"
+  brand_color: "#111827"
+  default_prompt: "Usa $ultra-frontend para crear o elevar esta web con dirección artística, interacción y código frontend de alto nivel."
