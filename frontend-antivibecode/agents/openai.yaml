@@ -1,0 +1,5 @@
+interface:
+  display_name: "Frontend Anti-VibeCode"
+  short_description: "Diseña y audita frontends con criterio de producto"
+  brand_color: "#1F2937"
+  default_prompt: "Usa $frontend-antivibecode para diseñar o auditar este frontend con criterio de producto y calidad visual."
